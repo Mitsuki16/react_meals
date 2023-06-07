@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_meals/static/css/main.35b3abeb.css",
+    "main.js": "/react_meals/static/js/main.316aca94.js",
+    "static/media/pizza.jpg": "/react_meals/static/media/pizza.c17b9dd971176a5a862e.jpg",
+    "index.html": "/react_meals/index.html",
+    "static/media/cart.svg": "/react_meals/static/media/cart.b399be59b1eea4f51df21aab8bef7970.svg",
+    "main.35b3abeb.css.map": "/react_meals/static/css/main.35b3abeb.css.map",
+    "main.316aca94.js.map": "/react_meals/static/js/main.316aca94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35b3abeb.css",
+    "static/js/main.316aca94.js"
+  ]
+}
